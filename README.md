@@ -9,9 +9,6 @@ I'm a passionate web developer and a student of Computer Applications. I love cr
 
 - **Databases**: <br /><img width="60" height="60" src="https://img.icons8.com/color/96/mongodb.png" alt="mongodb"/>
 
-## Education
-- Bachelor of Computer Applications
-
 ## Fun Fact
 I love learning new programming languages and frameworks. Currently, I'm diving deep into Next.js and Tailwind CSS!
 
