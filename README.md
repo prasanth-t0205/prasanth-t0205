@@ -4,10 +4,12 @@
 I'm a passionate web developer and a student of Computer Applications. I love creating web applications and exploring new technologies. My journey in web development started with a curiosity for how websites work, and it has grown into a full-fledged passion.
 
 ## Skills
-- **Languages**: <img width="60" height="60" src="https://img.icons8.com/color/96/javascript--v1.png" alt="javascript--v1"/> <img width="60" height="60" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> <img width="60" height="60" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="60" height="60" src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-- **Web Development**: <img width="60" height="60" src="https://img.icons8.com/color/96/react-native.png" alt="react-native"/>
-<img width="60" height="60" src="https://img.icons8.com/ios-filled/100/000000/nextjs.png" alt="nextjs"/>
- <img width="60" height="60" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
+- **Languages**:
+- <img width="60" height="60" src="https://img.icons8.com/color/96/javascript--v1.png" alt="javascript--v1"/> <img width="60" height="60" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> <img width="60" height="60" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="60" height="60" src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+- **Web Development**:
+- <img width="60" height="60" src="https://img.icons8.com/color/96/react-native.png" alt="react-native"/>
+  <img width="60" height="60" src="https://img.icons8.com/ios-filled/100/000000/nextjs.png" alt="nextjs"/>
+  <img width="60" height="60" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
 - **Databases**: <img width="60" height="60" src="https://img.icons8.com/color/96/mongodb.png" alt="mongodb"/>
 
 ## Education
